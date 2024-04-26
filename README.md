@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/niha-zafar-7b9753292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niha-zafar-7b9753292" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/zafriii" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zafriii" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/farihazafarniha" target="blank"><img align="center" src="https://codeforces.org/s/29845/images/codeforces-sponsored-by-ton.png">" height="10" width="2" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
